@@ -26,7 +26,7 @@ Execute `npm start` na pasta server (Porta 3333), `npm start` nas pastas web (Po
 
 É necessário atualizar os endereços de IP dentro dos projetos de acordo com cada computador.
 
-No Mobile, caso ocorra algum erro relacionado a fonts, execute `npx expo install expo-font @expo-google-fonts/ubuntu @expo-google-fonts/roboto`
+No Mobile, caso ocorra algum erro relacionado a fonts, execute `npx expo install`
 
 ### Demonstração
 
