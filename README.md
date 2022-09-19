@@ -10,13 +10,13 @@ O Back-end gerencia as APIs resultantes do banco de dados, o Front-end fornecia 
 
 ## Tecnologias
 
-📁 Back-end: NodeJs
+📁 Back-end: NodeJs - Utilizando [express](https://expressjs.com/)
 
-🗄️ Banco de Dados: SQLite
+🗄️ Banco de Dados: SQLite - Utilizando [prisma](https://www.prisma.io/)
 
-🖥️ Front-end: ReactJs
+🖥️ Front-end: ReactJs - Utilizando [tailwind](https://tailwindcss.com/) e [@radix-ui](https://www.radix-ui.com/)
 
-📱 Mobile: React Native
+📱 Mobile: React Native - Utilizando [expo](https://expo.dev/)
 
 ### Para rodar a aplicação
 
